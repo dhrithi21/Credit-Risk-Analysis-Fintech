@@ -17,9 +17,9 @@ This project focuses on quantifying credit risk for retail lending by developing
 ---
 
 ##  Key Methodology & Results
-![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/portfolio KPIs.png.png?raw=true)
-![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/RISK SEGMENTATION.png.png?raw=true)
-![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/overall table analysis.png.png?raw=true)
+**![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/portfolio KPIs.png.png?raw=true)**
+**![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/RISK SEGMENTATION.png.png?raw=true)**
+**![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/overall table analysis.png.png?raw=true)**
 ### 1. Feature Engineering
 * Calculated critical solvency ratios: **Debt-to-Income (DTI)** and **Loan-to-Income (LTI)**.
 * Standardized financial variables to ensure unbiased model coefficients.
@@ -46,7 +46,7 @@ This project focuses on quantifying credit risk for retail lending by developing
 ## Repository Structure
 * `CREDIT_RISK_MODEL.ipynb`: Full Python modeling workflow.
 *   `Report.pdf`: Comprehensive technical whitepaper and executive summary.
-* [cite_start]`Data/`: Cleaned dataset used for the analysis.
+* `Data/`: Cleaned dataset used for the analysis.
 
 ---
 **Author:** DHRITHI MANGAL  
