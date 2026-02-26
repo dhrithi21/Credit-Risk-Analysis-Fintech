@@ -9,10 +9,10 @@ This project focuses on quantifying credit risk for retail lending by developing
 ---
 
 ##  Technical Stack
-* [cite_start]**Analysis & ETL:** Python (Pandas, NumPy), Excel (Power Query) [cite: 1]
-* [cite_start]**Modeling:** Scikit-Learn (Logistic Regression) [cite: 1]
-* [cite_start]**Visualization:** Power BI (DAX, Star Schema Modeling) [cite: 1]
-* [cite_start]**Environment:** Google Colab / Jupyter Notebook [cite: 1]
+ **Analysis & ETL:** Python (Pandas, NumPy), Excel (Power Query)
+  **Modeling:** Scikit-Learn (Logistic Regression)
+ **Visualization:** Power BI (DAX, Star Schema Modeling) 
+ **Environment:** Google Colab / Jupyter Notebook 
 
 ---
 
