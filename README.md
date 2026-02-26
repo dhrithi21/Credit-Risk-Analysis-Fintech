@@ -17,35 +17,38 @@ This project focuses on quantifying credit risk for retail lending by developing
 ---
 
 ##  Key Methodology & Results
+![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/portfolio KPIs.png.png?raw=true)
+![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/RISK SEGMENTATION.png.png?raw=true)
+![Credit Risk Dashboard](https://github.com/dhrithi21/Credit-Risk-Analysis/blob/main/overall table analysis.png.png?raw=true)
 ### 1. Feature Engineering
-* [cite_start]Calculated critical solvency ratios: **Debt-to-Income (DTI)** and **Loan-to-Income (LTI)**[cite: 1].
-* [cite_start]Standardized financial variables to ensure unbiased model coefficients[cite: 1].
+* Calculated critical solvency ratios: **Debt-to-Income (DTI)** and **Loan-to-Income (LTI)**.
+* Standardized financial variables to ensure unbiased model coefficients.
 
 ### 2. Predictive Modeling (Logistic Regression)
-* [cite_start]Implemented a **Logistic Regression** classifier to estimate $P(Default=1|X)$[cite: 1].
-* [cite_start]Achieved an **AUC-ROC score of 0.72**, demonstrating strong discriminatory power in distinguishing between high and low-risk borrowers[cite: 1].
+* Implemented a **Logistic Regression** classifier to estimate P(Default=1|X).
+* Achieved an **AUC-ROC score of 0.72**, demonstrating strong discriminatory power in distinguishing between high and low-risk borrowers.
 
 
 
 ### 3. Risk Segmentation & Calibration
-* [cite_start]Segmented the portfolio into **Low, Medium, and High-Risk** tiers[cite: 1].
-* [cite_start]Validated model **Monotonicity**: confirmed that realized default rates increase consistently with predicted risk buckets[cite: 1].
+* Segmented the portfolio into **Low, Medium, and High-Risk** tiers.
+* Validated model **Monotonicity**: confirmed that realized default rates increase consistently with predicted risk buckets.
 
 ---
 
 ##  Strategic Business Insights
-* [cite_start]**Risk-Based Pricing:** Identified segments where interest rate premiums are required to offset **Expected Loss (EL)**[cite: 1].
-* [cite_start]**Policy Recommendations:** Proposed a **40% DTI hard-cap** for new applicants to reduce portfolio exposure to high-probability default clusters[cite: 1].
-* [cite_start]**Portfolio Concentration:** Utilized Power BI to identify geographical and demographic "Risk Clusters" for real-time monitoring[cite: 1].
+* **Risk-Based Pricing:** Identified segments where interest rate premiums are required to offset **Expected Loss (EL)**.
+* **Policy Recommendations:** Proposed a **40% DTI hard-cap** for new applicants to reduce portfolio exposure to high-probability default clusters.
+* **Portfolio Concentration:** Utilized Power BI to identify geographical and demographic "Risk Clusters" for real-time monitoring.
 
 ---
 
 ## Repository Structure
-* [cite_start]`CREDIT_RISK_MODEL.ipynb`: Full Python modeling workflow[cite: 1].
-* [cite_start]`Report.pdf`: Comprehensive technical whitepaper and executive summary[cite: 1].
-* [cite_start]`Data/`: Cleaned dataset used for the analysis[cite: 1].
+* `CREDIT_RISK_MODEL.ipynb`: Full Python modeling workflow.
+*   `Report.pdf`: Comprehensive technical whitepaper and executive summary.
+* [cite_start]`Data/`: Cleaned dataset used for the analysis.
 
 ---
-**Author:** [DHRITHI MANGAL]  
+**Author:** DHRITHI MANGAL  
 **Field:** B.A. Economics (1st Year)  
 
